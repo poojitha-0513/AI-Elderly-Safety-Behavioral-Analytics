@@ -1,0 +1,16 @@
+import csv
+
+with open(
+"data/activity_logs.csv",
+"a",
+newline=""
+) as file:
+
+    writer = csv.writer(file)
+
+    writer.writerow(
+    [
+    time.ctime(),
+    activity
+    ]
+    )
