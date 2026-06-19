@@ -1,0 +1,12 @@
+standing_time,walking_time,sitting_time,lying_time,fall_count,inactivity_alerts,lying_alerts,movement_score,risk
+
+15,25,5,1,0,0,0,155,Low
+12,20,8,2,0,0,0,124,Low
+10,18,12,3,0,1,0,110,Low
+8,12,15,5,1,2,1,76,Medium
+6,8,20,7,1,3,2,52,Medium
+5,5,25,10,2,4,3,35,High
+4,4,30,12,2,5,4,28,High
+3,2,35,15,3,6,5,16,High
+12,22,8,1,0,0,0,134,Low
+7,10,18,6,1,2,1,64,Medium
